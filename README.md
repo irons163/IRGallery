@@ -139,8 +139,10 @@ IRGalleryViewController *galleryVC = [[IRGalleryViewController alloc] initWithPh
 | ![Delete](./ScreenShots/demo3.png) | ![Favorite](./ScreenShots/demo4.png) |
 | Share | Scale |
 | ![Share](./ScreenShots/demo5.png) | ![Scale](./ScreenShots/demo7.png) |
+
 | Landscape |
-| ![Landscape](./ScreenShots/demo6.png) | 
+|:---:|
+| ![Landscape](./ScreenShots/demo6.png) |
 
 ## Copyright
 ##### This project is inspired from [FGallery-iPhone](https://github.com/gdavis/FGallery-iPhone).
