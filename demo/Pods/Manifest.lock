@@ -1,0 +1,16 @@
+PODS:
+  - IRGallery_dev (0.1.0)
+
+DEPENDENCIES:
+  - IRGallery_dev (from `../IRGallery/IRGallery_dev.podspec`)
+
+EXTERNAL SOURCES:
+  IRGallery_dev:
+    :path: "../IRGallery/IRGallery_dev.podspec"
+
+SPEC CHECKSUMS:
+  IRGallery_dev: 11df0ce4db35eb456461a6851222225e8bc11304
+
+PODFILE CHECKSUM: 078b722d2996913fec2c3f97a32f0273fe521909
+
+COCOAPODS: 1.8.4

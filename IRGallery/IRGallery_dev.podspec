@@ -9,5 +9,6 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "9.0"
   spec.source       = { :git => "https://github.com/irons163/IRGallery.git", :tag => spec.version.to_s }
   spec.source_files  = "**/*.{h,m}"
-#  spec.resources = ["**/*.xib", "**/*.xcassets"]
+  spec.public_header_files = '**/IRGallery.h', '**/IRGalleryViewController.h', '**/IRGalleryPhoto.h'
+  spec.resources  = "**/*.{png}"
 end

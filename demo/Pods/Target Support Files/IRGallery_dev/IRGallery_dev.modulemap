@@ -1,0 +1,6 @@
+framework module IRGallery_dev {
+  umbrella header "IRGallery_dev-umbrella.h"
+
+  export *
+  module * { export * }
+}
